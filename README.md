@@ -22,6 +22,7 @@ Python scripting
 Data Collection
 API integration
 Streamlit
+Plotly
 Data Management using MongoDB (Atlas) and SQL
 Installation
 
@@ -32,18 +33,15 @@ pip install pymongo
 pip install pandas
 pip install psycopg2
 pip install streamlit
+
 Usage
 
 To use this project, follow these steps:
 
 Clone the repository: git clone https://github.com/sanjeev54/Youtube-Harvesting-and-Warehousing.git
-
 Install the required packages: pip install -r requirements.txt
-
 Run the Streamlit app: streamlit run app.py
-
 Access the app in your browser at http://localhost:8501
-
 Features
 
 Retrieve data from the YouTube API, including channel information, playlists, videos, and comments.
@@ -74,6 +72,10 @@ Video Analysis: Video analysis focuses on views, likes, comments, and durations,
 
 The Streamlit app provides an intuitive interface to interact with the charts and explore the data visually. Users can customize the visualizations, filter data, and zoom in or out to focus on specific aspects of the analysis.
 
+Contributing
+
+Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
+
 Contact
 
 📧 Email: gvofficial54@gmail.com
@@ -81,3 +83,5 @@ Contact
 🌐 LinkedIn: www.linkedin.com/in/sanjeev-kumar-m-360601149
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
+
+
